@@ -3,7 +3,7 @@ Tip Calculator is an app that I have developed to take my first steps with Andro
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-(https://github.com/user-attachments/assets/2bdba7c5-9bfc-4579-a97c-bbee00d584ac)(https://github.com/user-attachments/assets/584e035f-9cc2-4847-8c1a-d0e428abdc65(https://github.com/user-attachments/assets/1fc3119d-d860-4f96-a7a7-7e341b4a9c47)
+<img src="https://github.com/user-attachments/assets/2bdba7c5-9bfc-4579-a97c-bbee00d584ac" width="260">&emsp;<img src="https://github.com/user-attachments/assets/584e035f-9cc2-4847-8c1a-d0e428abdc65" width="260">&emsp;<img src="https://github.com/user-attachments/assets/1fc3119d-d860-4f96-a7a7-7e341b4a9c47" width="260">&emsp;
 
 ## Technologies
 * Kotlin
