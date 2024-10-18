@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tip_calculator">Calculadora de Gorjeta</string>
+    <string name="fill_in_the_fields_below_to_calculate_your_bill">Preencha os campos para calcular sua conta</string>
+    <string name="fill_in_all_fields">Preencha todos os campos</string>
+    <string name="type_here_the_total_amount_of_the_bill">Digite aqui o montante total da conta</string>
+    <string name="e_g_250_eur">Ex: 250 EUR</string>
+    <string name="type_here_the_number_of_people">Digite aqui o número de pessoas</string>
+    <string name="eg_4">Ex: 4</string>
+    <string name="desired_amount_of_percentage">Porcentagem desejada</string>
+    <string name="e_g_10">Ex: 10%</string>
+    <string name="clean">Limpar</string>
+    <string name="calculate">Calcular</string>
+    <string name="summary">Resumo</string>
+    <string name="see_below_the_summary_of_your_check">Veja abaixo o resumo de sua conta</string>
+    <string name="total_amount">Valor total</string>
+    <string name="number_of_people">Número de pessoas</string>
+    <string name="percentage">Porcentagem</string>
+    <string name="total">Total</string>
+    <string name="refresh">Atualizar</string>
+</resources>

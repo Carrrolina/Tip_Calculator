@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tip_calculator">Calculadora de propina</string>
+    <string name="fill_in_the_fields_below_to_calculate_your_bill">Rellene los campos que aparecen a continuación para calcular su factura</string>
+    <string name="fill_in_all_fields">Rellene todos los campos</string>
+    <string name="type_here_the_total_amount_of_the_bill">Escriba aquí el importe total de la factura</string>
+    <string name="e_g_250_eur">Ej: 250 EUR</string>
+    <string name="type_here_the_number_of_people">Escriba aquí el número de personas</string>
+    <string name="eg_4">Ej: 4</string>
+    <string name="desired_amount_of_percentage">Cantidad deseada de porcentaje</string>
+    <string name="e_g_10">Ej: 10%</string>
+    <string name="clean">Limpiar</string>
+    <string name="calculate">Calcular</string>
+    <string name="summary">Resumen</string>
+    <string name="see_below_the_summary_of_your_check">Vea a continuación el resumen de su factura</string>
+    <string name="total_amount">Importe total</string>
+    <string name="number_of_people">Número de personas</string>
+    <string name="percentage">Porcentaje</string>
+    <string name="total">Total</string>
+    <string name="refresh">Actualizar</string>
+</resources>
