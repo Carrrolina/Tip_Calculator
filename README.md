@@ -1,5 +1,5 @@
 # Tip Calculator
-Tip Calculator is an app that I have developed to take my first steps with Android development a while ago. When I started the 10D challenge within the DevSpace community, I have managed to do it from scratch. Now, this is a more user-friendly and improved version of the app.
+Tip Calculator is an app developed to continue my studies in kotlin. It has new features and it calculates any amount of tip desired. This is a practical and user-friendly app.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
