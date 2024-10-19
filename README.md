@@ -14,7 +14,6 @@ Tip Calculator is an app developed to continue my studies in kotlin. It has new 
 - UI Components
     - TextView
     - EditText
-    - ImageView
     - Button
 - Snackbar
 - Explicit Intent to open the second activity 
